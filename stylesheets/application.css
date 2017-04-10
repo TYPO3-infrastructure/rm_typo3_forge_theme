@@ -271,57 +271,57 @@ input, textarea, select {
 /** Bugtracker color codes */
 
 /* New */
-.status-1 .status {
+.list.issues .status-1 .status {
   background-color:#fb7e7e;
 }
 
 /* Accepted */
-.status-2 .status {
+.list.issues .status-2 .status {
   background-color:#fbee99;
 }
 
 /* In Progress */
-.status-3 .status {
+.list.issues .status-3 .status {
   background-color:#A9E2FF;
 }
 
 /* Needs Feedback */
-.status-4 .status {
+.list.issues .status-4 .status {
   background-color:#FBC3C3;
 }
 
 /* On Hold */
-.status-5 .status {
+.list.issues .status-5 .status {
   background-color:#D1F412;
 }
 
 /* Under Review */
-.status-6 .status {
+.list.issues .status-6 .status {
   background-color:#aeff91;
 }
 
 /* Resolved */
-.status-7 .status {
+.list.issues .status-7 .status {
   background-color:#e6e6e6;
 }
 
 /* Ready for Deployment */
-.status-8 .status {
+.list.issues .status-8 .status {
   background-color:#ffffff;
 }
 
 /* Closed */
-.status-9 .status {
+.list.issues .status-9 .status {
   background-color:#ffffff;
 }
 
 /* Rejected */
-.status-10 .status {
+.list.issues .status-10 .status {
   background-color:#ffffff;
 }
 
 /* Postponed */
-.status-11 .status {
+.list.issues .status-11 .status {
   background-color:#ffffff;
 }
 
