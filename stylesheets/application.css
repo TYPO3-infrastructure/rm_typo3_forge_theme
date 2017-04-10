@@ -207,7 +207,7 @@ input, textarea, select {
   margin-bottom:10px;
   clear:both;
 }
-.role-user .userimage {
+.role-user .gravatar {
   float:left;
   margin-right:5px;
 }
