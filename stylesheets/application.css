@@ -5,6 +5,7 @@ body { background: #fff; color: #000; margin: 0 0px 10px; padding: 0; width: 100
 
 td, th { font-size:9pt; }
 
+#wrapper { overflow: visible; }
 #account, #quick-search, #quick-search a { color: #515151; }
 #top-menu { font-size: 80%; height: 22px; padding-top: 5px; background: #fff url(../images/header_bg.png) repeat-x; }
 #top-menu a { font-weight: bold; color: #515151;}
