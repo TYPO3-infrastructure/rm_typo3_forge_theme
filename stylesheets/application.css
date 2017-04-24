@@ -428,6 +428,7 @@ div.auto_complete {
     }
 div.auto_complete ul.results li.selected { background-color: #ffb; }
 #main-menu div.auto_complete ul.results li.project {
+      cursor: pointer;
       list-style-type: none;
       display:block;
       margin:0;
