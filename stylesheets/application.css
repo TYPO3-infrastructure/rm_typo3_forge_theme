@@ -281,49 +281,49 @@ input, textarea, select {
   background-color:#fbee99;
 }
 
-/* In Progress */
+/* Resolved */
 .list.issues .status-3 .status {
-  background-color:#A9E2FF;
+  background-color:#bae0ba;
 }
 
 /* Needs Feedback */
 .list.issues .status-4 .status {
-  background-color:#FBC3C3;
-}
-
-/* On Hold */
-.list.issues .status-5 .status {
-  background-color:#D1F412;
-}
-
-/* Under Review */
-.list.issues .status-6 .status {
-  background-color:#aeff91;
-}
-
-/* Resolved */
-.list.issues .status-7 .status {
-  background-color:#e6e6e6;
-}
-
-/* Ready for Deployment */
-.list.issues .status-8 .status {
-  background-color:#ffffff;
+  background-color:#fbc3c3;
 }
 
 /* Closed */
-.list.issues .status-9 .status {
+.list.issues .status-5 .status {
   background-color:#ffffff;
 }
 
 /* Rejected */
-.list.issues .status-10 .status {
-  background-color:#ffffff;
+.list.issues .status-6 .status {
+  background-color:#e6e6e6;
+}
+
+/* On Hold */
+.list.issues .status-7 .status {
+  background-color:#a9e2ff;
+}
+
+/* Under Review */
+.list.issues .status-8 .status {
+  background-color:#d1f412;
 }
 
 /* Postponed */
+.list.issues .status-9 .status {
+  background-color:#fcf;
+}
+
+/* Ready for deployment */
+.list.issues .status-10 .status {
+  background-color:#3f6;
+}
+
+/* In Progress */
 .list.issues .status-11 .status {
-  background-color:#ffffff;
+  background-color:#fc0;
 }
 
 /***** CGL Checks */
